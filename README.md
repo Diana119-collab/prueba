@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diana</h1>
+<h1 align="center">Hi 👋, I'm Diana Alarcon</h1>
 <h3 align="center">A passionate frontend and bakend developer from Peru</h3>
 
 <h3 align="left">Connect with me:</h3>
